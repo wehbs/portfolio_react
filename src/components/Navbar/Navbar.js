@@ -1,8 +1,8 @@
 import React from "react";
 
 const Navbar = props => (
-  <nav>
-    <div className="nav-wrapper grey darken-1">
+  <nav className="grey darken-1">
+    <div className="nav-wrapper container">
     <a href="#page-top">
     <i className="fa fa-hashtag"></i>
     <span>Wehbs</span>
